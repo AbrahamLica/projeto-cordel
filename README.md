@@ -15,8 +15,7 @@ Projeto desenvolvido no curso do Gustavo Guanabara, com o intuito de solidificar
 - [@AbrahamLica](https://www.github.com/AbrahamLica)  👈
 
 
-## imagem
-
 <img src="/imagens/cordel.png">
 
-<img src="/imagens/meu-logo-branco.png">
+
+<img src="/imagens/meu-logo-branco.png" width='300px'>
